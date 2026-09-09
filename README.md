@@ -27,13 +27,4 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/husanovzuhriddin701-dev/husanovzuhriddin701-dev/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/husanovzuhriddin701-dev/husanovzuhriddin701-dev/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<p align="center">⭐ Loyihalarimni ko'rish uchun profilimga tashrif buyuring!</p>
+<p align="center">⭐ Loyihalarimni ko'rish uchun profilimga tashrif buyuring!</p>shu kodga yozib ber
