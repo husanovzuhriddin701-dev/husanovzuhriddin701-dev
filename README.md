@@ -27,4 +27,4 @@
 
 ---
 
-<p align="center">⭐ Loyihalarimni ko'rish uchun profilimga tashrif buyuring!</p>shu kodga yozib ber
+<p align="center">⭐ Loyihalarimni ko'rish uchun profilimga tashrif buyuring!</p>
